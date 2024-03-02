@@ -1,4 +1,4 @@
-# recommendation-system
+# Recommendation-system
 Recommendation System using Letterboxd data
 
 #### Project Status: In-progress
