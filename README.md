@@ -9,7 +9,7 @@ Using data I had previously acquired using selenium and BeautifulSoup in my [Let
 ## Methods and Libraries
 * **Language:** Python
 * **Webscraping:** BeautifulSoup
-* **Data Processing:** Pandas, Numpy, Scikit-learn
+* **Data Processing:** Pandas, Numpy, Scikit-learn (CountVectorizer, cosine_similarity)
 
 ## Results
 * Functional and effective recommender algorithm after the input of any number of letterboxd usernames
