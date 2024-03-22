@@ -1,5 +1,5 @@
 # Recommendation-system
-Recommendation System using Letterboxd data
+Movie Recommendation System using Letterboxd data
 
 #### Project Status: In-progress
 
